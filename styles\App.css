@@ -1,0 +1,48 @@
+.app {
+  background-color: #f0f0f0;
+}
+
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.hero {
+  background-image: linear-gradient(to bottom, #333, #fff);
+  background-size: 100% 300px;
+  background-position: 0% 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.players {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.players li {
+  margin: 20px;
+}
+
+.players img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+```
+This project uses React, CSS, and images to create a beautiful and professional frontend for the Portugal football team. The layout is responsive and modern, with a hero section, player showcase, and footer. You can customize the styles and components to fit your needs.
+
+**Note:** This is a basic example, and you can add more features, animations, and interactions to make it more engaging.
